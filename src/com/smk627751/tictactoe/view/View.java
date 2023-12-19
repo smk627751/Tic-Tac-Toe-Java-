@@ -2,7 +2,7 @@ package com.smk627751.tictactoe.view;
 
 import java.util.Scanner;
 import java.util.Arrays;
-import com.smk627751.tictactoe.ViewModel;
+import com.smk627751.tictactoe.viewmodel.ViewModel;
 
 public class View {
     private ViewModel viewModel;

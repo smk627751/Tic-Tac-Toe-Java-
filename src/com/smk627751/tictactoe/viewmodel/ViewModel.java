@@ -1,4 +1,4 @@
-package com.smk627751.tictactoe;
+package com.smk627751.tictactoe.viewmodel;
 
 import java.util.Set;
 import java.util.HashSet;
